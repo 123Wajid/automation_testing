@@ -17,5 +17,10 @@ steps:
 
 - script: |
     npm install
-    npm run build
-  displayName: 'npm install and build'
+  displayName: 'npm install'
+
+- script: |
+    sudo apt-get install xvfb
+
+- script: xvfb-run --auto-servernum npm test -- --env chrome
+  displayName: 'Run tests'
