@@ -1,0 +1,17 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nightwatch --env selenium_server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nightwatch/selenium-server": "^4.5.0",
+    "chromedriver": "^107.0.2",
+    "nightwatch": "^2.4.1"
+  }
+}

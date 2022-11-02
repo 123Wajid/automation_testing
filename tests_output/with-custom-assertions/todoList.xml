@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="with-custom-assertions.todoList"
+    errors="1" failures="0" hostname="" id="" package="with-custom-assertions" skipped="1"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+    <system-err>
+       An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+ An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+ An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+ An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+ An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+ An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+ An error occurred while creating a new Selenium Server session: [SessionNotCreatedError] Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 107
+Current browser version is 106.0.5249.119 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: &#39;DESKTOP-5NVUG9P&#39;, ip: &#39;192.168.0.113&#39;
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+Build info: version: &#39;4.5.0&#39;, revision: &#39;fe167b119a&#39;
+System info: os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;19.0.1&#39;
+Driver info: driver.version: unknown
+    </system-err>
+  
+
+    
+    <error message=""><![CDATA[
+      
+      ]]></error>  
+
+  
+    
+    <testcase
+      name="should add a new todo element" classname="with-custom-assertions.todoList">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
