@@ -26,3 +26,11 @@ steps:
 
 - script: xvfb-run --auto-servernum npm test -- --env chrome
   displayName: 'Run tests'
+
+- task: PublishTestResults@2
+  displayName: 'Publish Test Results'
+  inputs:
+    testResultsFiles: 'reports/*.xml'
+    mergeTestResults: true
+    failTaskOnFailedTests: true
+  condition: succeededOrFailed()
