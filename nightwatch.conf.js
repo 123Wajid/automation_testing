@@ -15,6 +15,7 @@ module.exports = {
   // An array of folders (excluding subfolders) where your tests are located;
   // if this is not specified, the test source must be passed as the second argument to the test runner.
   src_folders: ['tests'],
+  output_folder: ['tests_output/nightwatch-html-report'],
 
 
   // See https://nightwatchjs.org/guide/concepts/page-object-model.html
