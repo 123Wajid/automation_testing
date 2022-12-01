@@ -1,0 +1,36 @@
+# Node.js
+
+# Build a general Node.js project with npm.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- task: NodeTool@0
+  inputs:
+    versionSpec: '16.18.0'
+  displayName: 'Install Node.js'
+
+- script: |
+    npm install
+    npm run
+  displayName: 'npm install'
+
+- script: |
+    sudo apt-get install xvfb
+
+- script: xvfb-run --auto-servernum npm test -- --env chrome
+  displayName: 'Run tests'
+
+- task: PublishTestResults@2
+  displayName: 'Publish Test Results'
+  inputs:
+    testResultsFiles: 'tests_output/nightwatch-html-report/index.html'
+    mergeTestResults: true
+    failTaskOnFailedTests: true
+  condition: succeededOrFailed()
